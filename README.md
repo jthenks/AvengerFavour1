@@ -4,3 +4,6 @@ multiple different arraylists and sorted based on the desired comparison algorit
 
 This was a university assignment that was submitted as a .jar file for easy output comparison. There is a placeholder in the java files that allows for manual .txt file selection.
 This assignment was meant to demonstrate the use of comparable and comparator while using arraylists. 
+
+This assignment was completed in a team of three. All members worked together to ensure we understood all portions of the program, but my personal contribution was the Avenger
+class and both comparators. 
